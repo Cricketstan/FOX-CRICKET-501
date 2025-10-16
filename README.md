@@ -1,12 +1,4 @@
 <a id="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <br />
 <div align="center">
   <a href="https://github.com/Allrounder745/FOX-Cricket-501">
@@ -76,15 +68,6 @@ This project is designed to give cricket fans the **ultimate viewing experience*
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
-
-## Built With
-
-* [![HTML5][HTML5-shield]][HTML5-url] HTML5  
-* [![CSS3][CSS3-shield]][CSS3-url] CSS3  
-* [![JavaScript][JS-shield]][JS-url] JavaScript  
-* [![Bootstrap][Bootstrap-shield]][Bootstrap-url] Bootstrap  
-* [![Plyr][Plyr-shield]][Plyr-url] Plyr Video Player  
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
@@ -111,4 +94,4 @@ No installation required. Simply use the **iframe embed** or **direct link**.
 ### Iframe Embed
 
 ```html
-<iframe src="https://your-iframe-link.com" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://restreaming-bk6f.onrender.com/" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
