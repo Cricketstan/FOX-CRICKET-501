@@ -1,25 +1,27 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://restreaming-bk6f.onrender.com/">
-    <img src="https://i.ibb.co/qq69M27/Picsart-25-10-16-21-59-39-299.jpg" alt="FOX Cricket 501 Logo" width="120" height="120">
+  <a href="https://github.com/Allrounder745/FOX-Cricket-501">
+    <img src="https://i.ibb.co/qq69M27/Picsart-25-10-16-21-59-39-299.jpg" alt="FOX Cricket 501 Logo" width="120" height="120" style="border-radius:15px; box-shadow: 0 0 20px #FF5722;">
   </a>
 
-  <h1 align="center">🔥 FOX Cricket 501 – India vs Australia Series 🔥</h1>
-  <p align="center">
+  <h1 align="center" style="font-family: 'Roboto', sans-serif; color:#FF5722;">
+    🔥 FOX Cricket 501 – India vs Australia Series 🔥
+  </h1>
+  <p align="center" style="font-family: 'Roboto Mono', monospace; color:#607D8B;">
     The ultimate live cricket channel for all fans! Watch India vs Australia like never before.  
     <br />
-    <a href="#usage"><strong>Watch Live »</strong></a>
+    <a href="#usage" style="color:#FF5722;"><strong>Watch Live »</strong></a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#getting-started">Get Started</a>
+    <a href="#getting-started" style="color:#4CAF50;">Get Started</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#contact">Contact Me</a>
+    <a href="#contact" style="color:#2196F3;">Contact Me</a>
   </p>
 </div>
 
 ---
 
-## Table of Contents
+## <span style="font-family: 'Arial Black', sans-serif; color:#E91E63;">Table of Contents</span>
 <details>
 <summary>Expand to see contents</summary>
 <ol>
@@ -38,16 +40,16 @@
 
 ---
 
-## About The Project
+## <span style="font-family: 'Courier New', monospace; color:#3F51B5;">About The Project</span>
 
-Welcome cricket fans! I am **Allrounder**, bringing you the **most awaited channel – FOX Cricket 501**, streaming the **India vs Australia Series** live! 🇮🇳🏏🇦🇺  
+Welcome cricket fans! I am **Allrounder**, bringing you the **most awaited channel – FOX Cricket 501**, streaming the **India vs Australia Series** live!  
 
 With FOX Cricket 501, you can enjoy:  
 
-- ⚡ **High-quality live streams**  
-- 🎯 **Direct link & iframe embed for easy access**  
-- 🌟 **Exclusive access to all matches**  
-- 🏆 **Catch every ball, wicket, and six**  
+- <span class="material-icons" style="color:#FF9800;">flash_on</span> **High-quality live streams**  
+- <span class="material-icons" style="color:#4CAF50;">target</span> **Direct link & iframe embed for easy access**  
+- <span class="material-icons" style="color:#9C27B0;">stars</span> **Exclusive access to all matches**  
+- <span class="material-icons" style="color:#F44336;">emoji_events</span> **Catch every ball, wicket, and six**  
 
 This project is designed to give cricket fans the **ultimate viewing experience**, whether on desktop, mobile, or tablet. Stay connected, never miss a moment, and enjoy the thrill of the game like never before!  
 
@@ -55,19 +57,19 @@ This project is designed to give cricket fans the **ultimate viewing experience*
 
 ---
 
-## Features
+## <span style="font-family: 'Verdana', sans-serif; color:#009688;">Features</span>
 
-- ✅ **Live streaming of India vs Australia Series**  
-- ✅ **Direct iframe embed support**  
-- ✅ **Responsive for all devices**  
-- ✅ **No buffering, optimized for high-speed internet**  
-- ✅ **Easy credit system**: Please give credit when using iframe/direct link  
+- <span class="material-icons" style="color:#FF5722;">live_tv</span> **Live streaming of India vs Australia Series**  
+- <span class="material-icons" style="color:#4CAF50;">code</span> **Direct iframe embed support**  
+- <span class="material-icons" style="color:#2196F3;">devices</span> **Responsive for all devices**  
+- <span class="material-icons" style="color:#FF9800;">speed</span> **No buffering, optimized for high-speed internet**  
+- <span class="material-icons" style="color:#E91E63;">credit_card</span> **Easy credit system**: Please give credit when using iframe/direct link  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
-## Built With
+## <span style="font-family: 'Tahoma', sans-serif; color:#673AB7;">Built With</span>
 
 [![HTML5][HTML5-shield]][HTML5-url]  
 [![CSS3][CSS3-shield]][CSS3-url]  
@@ -103,7 +105,7 @@ This project is designed to give cricket fans the **ultimate viewing experience*
 
 ---
 
-## Getting Started
+## <span style="font-family: 'Impact', sans-serif; color:#FF5722;">Getting Started</span>
 
 Follow these steps to watch FOX Cricket 501 live:
 
@@ -120,7 +122,7 @@ No installation required. Simply use the **iframe embed** or **direct link**.
 
 ---
 
-## Usage
+## <span style="font-family: 'Georgia', serif; color:#3F51B5;">Usage</span>
 
 ### Iframe Embed
 
