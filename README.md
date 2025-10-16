@@ -40,8 +40,6 @@
 
 ## About The Project
 
-![FOX Cricket Screenshot][product-screenshot]
-
 Welcome cricket fans! I am **Allrounder**, bringing you the **most awaited channel – FOX Cricket 501**, streaming the **India vs Australia Series** live! 🇮🇳🏏🇦🇺  
 
 With FOX Cricket 501, you can enjoy:  
