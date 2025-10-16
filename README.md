@@ -66,7 +66,40 @@ This project is designed to give cricket fans the **ultimate viewing experience*
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+
+## Built With
+
+[![HTML5][HTML5-shield]][HTML5-url]  
+[![CSS3][CSS3-shield]][CSS3-url]  
+[![JavaScript][JS-shield]][JS-url]  
+[![Node.js][Node-shield]][Node-url]  
+[![Bootstrap][Bootstrap-shield]][Bootstrap-url]  
+[![Plyr][Plyr-shield]][Plyr-url]  
+[![GitHub][GitHub-shield]][GitHub-url]  
+[![Render][Render-shield]][Render-url]  
+[![Telegram][Telegram-shield]][Telegram-url]  
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Shields & Links -->
+[HTML5-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS3-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JS-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Node-shield]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nodejs.org/
+[Bootstrap-shield]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[Plyr-shield]: https://img.shields.io/badge/Plyr-16A2F7?style=for-the-badge&logo=video.js&logoColor=white
+[Plyr-url]: https://plyr.io
+[GitHub-shield]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
+[Render-shield]: https://img.shields.io/badge/Render-142850?style=for-the-badge&logo=render&logoColor=white
+[Render-url]: https://render.com/
+[Telegram-shield]: https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
+[Telegram-url]: https://telegram.org/
 
 ---
 
