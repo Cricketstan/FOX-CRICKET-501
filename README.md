@@ -1,8 +1,8 @@
 <a id="readme-top"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/Allrounder745/FOX-Cricket-501">
-    <img src="images/logo.png" alt="FOX Cricket 501 Logo" width="120" height="120">
+  <a href="https://restreaming-bk6f.onrender.com/">
+    <img src="https://i.ibb.co/qq69M27/Picsart-25-10-16-21-59-39-299.jpg" alt="FOX Cricket 501 Logo" width="120" height="120">
   </a>
 
   <h1 align="center">🔥 FOX Cricket 501 – India vs Australia Series 🔥</h1>
