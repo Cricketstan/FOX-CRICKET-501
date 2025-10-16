@@ -15,7 +15,7 @@
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#getting-started" style="color:#4CAF50;">Get Started</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#contact" style="color:#2196F3;">Contact Me</a>
+    <a href="t.me/allrounder745" style="color:#2196F3;">Contact Me</a>
   </p>
 </div>
 
